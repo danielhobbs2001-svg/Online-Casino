@@ -1,0 +1,6 @@
+{
+  "name": "Veloce Royale - Social Casino & Gaming Ecosystem",
+  "description": "Next-generation social casino platform with dual-currency economy (GC/SC), 50+ game catalog, rewarded ad monetization, VIP retention loops, and compliance suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
